@@ -17,7 +17,7 @@
 |                                                     손동민                                                     |                                                    권나연                                                    |
 | <a href="#"></a><br>*(GitHub ID 확인 중)* | <a href="#"></a><br>*(GitHub ID 확인 중)* |
 |                                                     배현빈                                                     |                                                    전이준                                                    |
-| <a href="#"></a><br>*(GitHub ID 확인 중)* | <a href="#"></a><br>*(GitHub ID 확인 중)* |
+| <a href="#"></a><br>*(GitHub ID 확인 중)* | <a href="https://github.com/nyangtteok"><img src="https://avatars.githubusercontent.com/nyangtteok" width="120"></a> |
 
 ---
 
