@@ -23,7 +23,7 @@ basic-study-17th/
 
 1. **개인 폴더 생성**
    - `members` 폴더 안에 **자신의 GitHub ID**나 이름으로 폴더를 생성합니다.
-   - 예: `members/heeyoungis/`, `members/LEEJUUUN/`
+   - 예: `members/anchanho/`
 
 2. **주차별 파일 생성**
    - 각 주차별 학습 내용을 마크다운(`.md`) 파일로 정리합니다.
@@ -38,7 +38,7 @@ basic-study-17th/
 ## 🔍 예시
 
 파일 경로 예시:
-- `basic-study-17th/members/ACH1002/1week.md`
+- `basic-study-17th/members/anchanho/1week.md`
 
 ## ⚠️ 주의사항
 
