@@ -1,6 +1,6 @@
 # 앱센터 안드로이드 스터디 17기
 
-> Since 2025.3.27
+> Since 2025.3
 
 ## 👩🏻‍💻 운영진
 
@@ -11,13 +11,14 @@
 ---
 
 ## 👫 파트원
-|                                                     김희영                                                     |                                                    문유찬                                                    |
-| :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+
+|                                                        김희영                                                        |                                                         문유찬                                                         |
+| :------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://github.com/heeyoungis"><img src="https://avatars.githubusercontent.com/heeyoungis" width="120"></a> | <a href="https://github.com/drachancode"><img src="https://avatars.githubusercontent.com/drachancode" width="120"></a> |
-|                                                     손동민                                                     |                                                    권나연                                                    |
-| <a href="https://github.com/clapp111"><img src="https://avatars.githubusercontent.com/clapp111" width="120"></a> | <a href="#"></a><br>*(GitHub ID 확인 중)* |
-|                                                     배현빈                                                     |                                                    전이준                                                    |
-| <a href="https://github.com/boragu"><img src="https://avatars.githubusercontent.com/boragu" width="120"></a> | <a href="https://github.com/nyangtteok"><img src="https://avatars.githubusercontent.com/nyangtteok" width="120"></a> |
+|                                                        손동민                                                        |                                                         권나연                                                         |
+|   <a href="https://github.com/clapp111"><img src="https://avatars.githubusercontent.com/clapp111" width="120"></a>   |                                       <a href="#"></a><br>_(GitHub ID 확인 중)_                                        |
+|                                                        배현빈                                                        |                                                         전이준                                                         |
+|     <a href="https://github.com/boragu"><img src="https://avatars.githubusercontent.com/boragu" width="120"></a>     |  <a href="https://github.com/nyangtteok"><img src="https://avatars.githubusercontent.com/nyangtteok" width="120"></a>  |
 
 ---
 
@@ -76,7 +77,7 @@
   - 예시
     - feat: todo-list 회원 API 엔티티 구현 - #2
     - fix: todo-list 회원 단건 조회 서비스 에러 수정 - #2
-  <br><br>
+      <br><br>
 - `PR 규칙`
 
   - PR 템플릿
